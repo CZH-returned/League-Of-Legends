@@ -2,7 +2,6 @@
 
 void flag()
 {
-    printf("Bienjoué");
     system("cat passwd.txt");
 }
 
